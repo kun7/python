@@ -6,3 +6,5 @@ def manga_park:
     print("Dang, i'm that good")
 
 tes tus tes teast yoast
+blabli blu lade dsa
+sadfi
