@@ -1,0 +1,6 @@
+tes tas tis tus
+tes tus tis tes
+test test test test
+
+def manga_park:
+    print("Dang, i'm that good")
